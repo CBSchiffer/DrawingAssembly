@@ -1,3 +1,9 @@
+# Generated files
+meshes/
+point_clouds/
+points/
+voxel_grids/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
